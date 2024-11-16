@@ -8,7 +8,7 @@ Retrieval-Augmented Generation (RAG) is a framework that combines retrieval mech
 # Key objectives include:
 * Building a RAG pipeline with knowledge graph integration.
 * Using graph databases (e.g., Neo4j) for storing and querying the knowledge graph.
-* Demonstrating improvements in response accuracy and contextual reasoning.
+* Demonstrating improvements in responses and contextual reasoning.
 
 # Key Features
 * Knowledge Graph Construction: Transform unstructured data into structured knowledge graphs using graph transformers.
