@@ -15,3 +15,9 @@ Retrieval-Augmented Generation (RAG) is a framework that combines retrieval mech
 * Enhanced Retrieval: Use graph-based reasoning with Cypher queries for more accurate context retrieval.
 * RAG Integration: Combine retrieved knowledge graph information with LLMs to enhance generated answers.
 
+# Usage
+* Test and run the project seamlessly using the provided Colab notebook integrated with Neo4j and Mistral APIs. Make sure to enter your own api key.
+* Feed your own PDF files in file section in colab for knowledge graph construction and testing.
+
+  
+
