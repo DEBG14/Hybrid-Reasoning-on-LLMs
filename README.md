@@ -11,7 +11,7 @@ Retrieval-Augmented Generation (RAG) is a framework that combines retrieval mech
 * Demonstrating improvements in response accuracy and contextual reasoning.
 
 # Key Features
-1.)Knowledge Graph Construction: Transform unstructured data into structured knowledge graphs using graph transformers.
-2.) Enhanced Retrieval: Use graph-based reasoning with Cypher queries for more accurate context retrieval.
-3.) RAG Integration: Combine retrieved knowledge graph information with LLMs to enhance generated answers.
+* Knowledge Graph Construction: Transform unstructured data into structured knowledge graphs using graph transformers.
+* Enhanced Retrieval: Use graph-based reasoning with Cypher queries for more accurate context retrieval.
+* RAG Integration: Combine retrieved knowledge graph information with LLMs to enhance generated answers.
 
