@@ -6,9 +6,9 @@ This repository contains the implementation of my M.Sc. research project, which 
 Retrieval-Augmented Generation (RAG) is a framework that combines retrieval mechanisms with large language models to improve the contextual relevance of generated responses. This project enhances RAG by integrating knowledge graphs to provide reasoning capabilities. Knowledge graphs transform unstructured data into structured data, enabling deeper insights and more accurate retrieval.
 
 # Key objectives include:
-1.)Building a RAG pipeline with knowledge graph integration.
-2.)Using graph databases (e.g., Neo4j) for storing and querying the knowledge graph.
-3.)Demonstrating improvements in response accuracy and contextual reasoning.
+* Building a RAG pipeline with knowledge graph integration.
+* Using graph databases (e.g., Neo4j) for storing and querying the knowledge graph.
+* Demonstrating improvements in response accuracy and contextual reasoning.
 
 # Key Features
 1.)Knowledge Graph Construction: Transform unstructured data into structured knowledge graphs using graph transformers.
