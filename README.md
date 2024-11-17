@@ -10,11 +10,6 @@ Although this research focuses on exploration rather than evaluation, the goal i
 * Structuring context for more coherent and precise answers.
 * Modeling complex relationships and dependencies in datasets.
 
-# Key objectives include:
-* Building a Hybrid RAG pipeline with knowledge graph integration.
-* Using graph databases (e.g., Neo4j) for storing and querying the knowledge graph to retrieve a subgraph containing the entity.
-* Demonstrating improvements in responses as a result of enhanced  contextual reasoning.
-
 # Key Features
 * Exploratory Research: Investigating how KGs influence the structuring of retrieved context.
 * Datasets: Includes publicly available sources like Wikipedia and  legal interogation datasets for question-answering tasks.
