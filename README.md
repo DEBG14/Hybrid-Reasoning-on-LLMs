@@ -1,5 +1,5 @@
 # Exploring Knowledge graphs in RAG for enhanced reasoning
-This repository contains the code implementation of a Graph informed RAG as part of my M.Sc. research project, conducted under the supervision of [Dr. B. S. Panda]([https://web.iitd.ac.in/~bspanda/](https://scholar.google.co.in/citations?user=ZwgtvXIAAAAJ&hl=en)), IIT Delhi, from January 2024 to May 2024. The research focuses on the "Retreval" of Retrieval-Augmented Generation (RAG) by incorporating knowledge graph reasoning to explore the potential benefits of structured knowledge representations in improving the quality and relevance of responses in complex, relationship rich datasets.
+This repository contains the code implementation of a Graph informed RAG as part of my M.Sc. research project, conducted under the supervision of [Dr. B. S. Panda](https://scholar.google.co.in/citations?user=ZwgtvXIAAAAJ&hl=en), IIT Delhi, from January 2024 to May 2024. The research focuses on the "Retreval" of Retrieval-Augmented Generation (RAG) by incorporating knowledge graph reasoning to explore the potential benefits of structured knowledge representations in improving the quality and relevance of responses in complex, relationship rich datasets.
 
 
 # Introduction
