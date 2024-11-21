@@ -15,7 +15,7 @@ Although this research focuses on exploration rather than evaluation, the goal i
 * Datasets: Includes publicly available sources like Wikipedia and  legal interogation datasets for question-answering tasks.
 * Knowledge Graph Construction: Transform unstructured data into structured knowledge graphs using graph transformers.
 * Enhanced Retrieval: Use graph-based reasoning with Cypher queries for more accurate context retrieval.
-* RAG Integration: Combine retrieved knowledge graph information with LLMs to enhance generated answers.
+* RAG Integration: Combine retrieved knowledge graph information with LLMs to generate enhanced answers using better reasoning paths.
 
 
 # Usage
