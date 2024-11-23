@@ -1,4 +1,4 @@
-# Exploring Hybrid Reasoning with LLMs: Leveraging Knowledge Graphs and Vector Retrieval for Enhanced Context Understanding
+#  Exploring Hybrid Reasoning with Knowledge graphs in LLMs
 This repository contains the development and testing of a Graph informed RAG as part of my M.Sc. research project, conducted under the supervision of [Dr. B. S. Panda](https://scholar.google.co.in/citations?user=ZwgtvXIAAAAJ&hl=en), IIT Delhi, from January 2024 to May 2024. The research focuses on the "Retreval" of Retrieval-Augmented Generation (RAG) by incorporating knowledge graph reasoning to explore the potential benefits of structured knowledge representations in improving the quality and relevance of responses in complex, relationship rich datasets for question answering tasks.
 
 
